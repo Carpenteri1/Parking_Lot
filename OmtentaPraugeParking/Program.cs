@@ -1,7 +1,7 @@
 ﻿using System;
 /*
  * Author:Niclas Timle
- * Mail:Niclastimle@protonmail.com
+ * 01-08-2020
  * School:Campus Varberg - SUT19 
  */
 
