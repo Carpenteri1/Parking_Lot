@@ -1,0 +1,1 @@
+Crashar programmet tabort backup filen och kör igen
